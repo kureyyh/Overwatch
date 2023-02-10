@@ -1,0 +1,12 @@
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\bin\Debug\net6.0\Overwatch.Utility.deps.json
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\bin\Debug\net6.0\Overwatch.Utility.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\bin\Debug\net6.0\Overwatch.Utility.pdb
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.csproj.AssemblyReference.cache
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.AssemblyInfoInputs.cache
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.AssemblyInfo.cs
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.csproj.CoreCompileInputs.cache
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\refint\Overwatch.Utility.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\Overwatch.Utility.pdb
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Utility\obj\Debug\net6.0\ref\Overwatch.Utility.dll
