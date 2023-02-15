@@ -1,17 +1,102 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch\\Overwatch.csproj": {}
+    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch\\Overwatch.csproj": {
+    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.DataAccess\\Overwatch.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch\\Overwatch.csproj",
-        "projectName": "Overwatch",
-        "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch\\Overwatch.csproj",
+        "projectUniqueName": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.DataAccess\\Overwatch.DataAccess.csproj",
+        "projectName": "Overwatch.DataAccess",
+        "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.DataAccess\\Overwatch.DataAccess.csproj",
         "packagesPath": "C:\\Users\\kursat.dogan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch\\obj\\",
+        "outputPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kursat.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Phact.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.phact.nl/api/v4/groups/294/-/packages/nuget/index.json": {},
+          "https://nuget.vsnsystemen.nl/nuget/NuGet": {},
+          "https://proget.phact.nl/nuget/NuGet": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj": {
+                "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Security.KeyVault.Secrets": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj",
+        "projectName": "Overwatch.Models",
+        "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj",
+        "packagesPath": "C:\\Users\\kursat.dogan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kursat.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +128,69 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.csproj",
+        "projectName": "Overwatch",
+        "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.csproj",
+        "packagesPath": "C:\\Users\\kursat.dogan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kursat.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Phact.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.phact.nl/api/v4/groups/294/-/packages/nuget/index.json": {},
+          "https://nuget.vsnsystemen.nl/nuget/NuGet": {},
+          "https://proget.phact.nl/nuget/NuGet": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.DataAccess\\Overwatch.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.DataAccess\\Overwatch.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -57,6 +205,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
             }
           },
           "imports": [

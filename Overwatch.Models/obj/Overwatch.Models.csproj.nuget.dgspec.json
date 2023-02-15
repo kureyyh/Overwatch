@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj": {}
+    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj": {
+    "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj",
+        "projectUniqueName": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj",
         "projectName": "Overwatch.Models",
-        "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj",
+        "projectPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\Overwatch.Models.csproj",
         "packagesPath": "C:\\Users\\kursat.dogan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch\\Overwatch.Models\\obj\\",
+        "outputPath": "C:\\Users\\kursat.dogan\\Desktop\\Overwatch\\Overwatch.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kursat.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",

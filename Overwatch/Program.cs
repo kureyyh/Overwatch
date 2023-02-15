@@ -1,13 +1,20 @@
 using Microsoft.EntityFrameworkCore;
-using Overwatch.Data;
+using Overwatch.DataAccess;
+using Overwatch.DataAccess.Repository;
+using Overwatch.DataAccess.Repository.IRepository;
+using Overwatch.Secrets;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(
+    );
+
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")));
-
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddTransient<IKeyVaultManager, KeyVaultManager>();
 
 var app = builder.Build();
 

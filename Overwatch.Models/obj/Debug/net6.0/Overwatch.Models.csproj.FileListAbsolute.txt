@@ -10,3 +10,15 @@ C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Models\obj\Debug\net
 C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Models\obj\Debug\net6.0\refint\Overwatch.Models.dll
 C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.pdb
 C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch\Overwatch.Models\obj\Debug\net6.0\ref\Overwatch.Models.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\bin\Debug\net6.0\Overwatch.Models.deps.json
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\bin\Debug\net6.0\Overwatch.Models.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\bin\Debug\net6.0\Overwatch.Models.pdb
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.csproj.AssemblyReference.cache
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.AssemblyInfoInputs.cache
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.AssemblyInfo.cs
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.csproj.CoreCompileInputs.cache
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\refint\Overwatch.Models.dll
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\Overwatch.Models.pdb
+C:\Users\kursat.dogan\Desktop\Overwatch\Overwatch.Models\obj\Debug\net6.0\ref\Overwatch.Models.dll

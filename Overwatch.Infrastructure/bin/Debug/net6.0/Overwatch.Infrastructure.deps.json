@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Overwatch.Infrastructure/1.0.0": {
+        "runtime": {
+          "Overwatch.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Overwatch.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
