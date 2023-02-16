@@ -7,12 +7,17 @@ using System.Threading.Tasks;
 
 namespace Overwatch.Models
 {
-    public class Organisation
+    public class ProjectDetail
     {
         [Key]
         public int Id { get; set; }
 
-        [Required] 
-        public string Name { get; set; }   
+        [Required]
+        public int ProjectId { get; set; }
+
+        public Project Project { get; set; }
+
+        [Required]
+        public string ConnectionString { get; set; }    
     }
 }

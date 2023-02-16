@@ -9,15 +9,19 @@ namespace Overwatch.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
-        public IClientRepository Client { get; private set; }
-
         private ApplicationDbContext _db;
 
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
             Client = new ClientRepository(_db);
+            Organisation = new OrganisationRepository(_db); 
         }
+
+        public IClientRepository Client { get; private set; }
+
+        public IOrganisationRepository Organisation { get; private set; }
+
 
         public void Save() 
         { 

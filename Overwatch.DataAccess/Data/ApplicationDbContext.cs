@@ -11,5 +11,11 @@ namespace Overwatch.DataAccess
         }
 
         public DbSet<Client> Clients { get; set; }
+
+        public DbSet<Organisation> Organisations { get; set; }
+
+        public DbSet<Project> Projects { get; set; }
+
+        public DbSet<ProjectDetail> ProjectDetails { get; set; }
     }
 }

@@ -18,4 +18,8 @@
     <ProjectReference Include="..\Overwatch.Models\Overwatch.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

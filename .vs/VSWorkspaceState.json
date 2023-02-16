@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Overwatch.DataAccess"
+    "\\Overwatch",
+    "\\Overwatch.DataAccess",
+    "\\Overwatch\\Views",
+    "\\Overwatch\\Views\\KeyValue"
   ],
   "SelectedNode": "\\Overwatch.sln",
   "PreviewInSolutionExplorer": false
